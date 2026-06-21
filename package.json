@@ -1,0 +1,22 @@
+{
+  "name": "task-127",
+  "main": "src/main.jsx",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "redux": "^4.2.0",
+    "react-redux": "^8.1.0",
+    "redux-logger": "^3.0.6",
+    "react-router-dom": "^5.3.0",
+    "@testing-library/react": "latest",
+    "@testing-library/dom": "latest",
+    "@testing-library/jest-dom": "latest",
+    "@testing-library/user-event": "latest",
+    "mutationobserver-shim": "latest",
+    "axios": "latest",
+    "msw": "latest",
+    "recharts": "latest",
+    "date-fns": "latest"
+  },
+  "devDependencies": {}
+}
